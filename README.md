@@ -1,1 +1,1 @@
-# Mario64
+# MyGame
